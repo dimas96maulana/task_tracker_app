@@ -1,0 +1,2 @@
+/Users/endrosatyo/Dimas/Uji Coba/Task Tracker App/task_tracker_app/android/app/.cxx/RelWithDebInfo/s3m52i43/x86/CMakeFiles/edit_cache.dir
+/Users/endrosatyo/Dimas/Uji Coba/Task Tracker App/task_tracker_app/android/app/.cxx/RelWithDebInfo/s3m52i43/x86/CMakeFiles/rebuild_cache.dir
